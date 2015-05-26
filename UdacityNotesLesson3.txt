@@ -1,0 +1,24 @@
+Object Oriented Programming.  
+Object-oriented programming (OOP) is a programming language model organized around objects rather than "actions" and data rather than logic. Historically, a program has been viewed as a logical procedure that takes input data, processes it, and produces output data.
+
+
+
+Class.  
+In object-oriented programming, a class is an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions, methods).  
+
+
+Instance.  
+an instance is a specific realization of any object. Formally, "instance" is synonymous with "object" as they are each a particular value (realization), and these may be called an instance object; "instance" emphasizes the distinct identity of the object. The creation of a realized instance is called instantiation.
+
+Constructor.  
+In class-based object-oriented programming, a constructor (abbreviation: ctor) in a class is a special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.
+
+
+ Instance variable.  
+In object-oriented programming with classes, an instance variable is a variable defined in a class (i.e. a member variable), for which each instantiated object of the class has a separate copy, or instance. An instance variable is similar to a class variable.
+
+
+ Instance method. 
+ A method (or message) in object-oriented programming (OOP) is a procedure associated with an object class. An object is made up of behavior and data. Data is represented as properties of the object and behavior as methods. Methods are also the interface an object presents to the outside world. For example a window object would have methods such as open and close. One of the most important capabilities that a method provides is method overriding.
+
+All in all, Object Oriented Programming is simply amazing.  Inheritance is fascinating.  And I’m excited to continue.  I have posted videos of my further work on the discussion forum.  (Movies, turtle, profanity editor, etc.) Thanks guys!
